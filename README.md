@@ -1,6 +1,6 @@
 # MIRROR
 
-This is a mirror, if the [original](https://github.com/TheGreatSageEqualToHeaven/Fiu/blob/main/Source.lua) is available please use that.
+This is a mirror, if the [original](https://github.com/TheGreatSageEqualToHeaven/Fiu/) is available please use that.
 
 # [Fiu](https://github.com/TheGreatSageEqualToHeaven/Fiu/blob/main/Source.lua)
 
